@@ -1,0 +1,5 @@
+{
+  "name": "Niva Bupa Quick-Copy Assistant",
+  "description": "Extract and copy insurance lead data from handwritten diaries using AI.",
+  "requestFramePermissions": []
+}
